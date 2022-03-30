@@ -1,0 +1,16 @@
+.classic {
+  margin: auto;
+  width: 400px;
+  height: 300px;
+  background-color: grey;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+.normal-size {
+  width: 400px;
+  height: 300px;
+}
